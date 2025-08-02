@@ -1,6 +1,6 @@
 # POAP Subgraph
 
-This Subgraph sources events from the POAP contract in different networks. It has been forked from [the original](https://github.com/poap-xyz/poap-subgraph) to demonstrate uses on Goldsky.
+This Subgraph sources events from the POAP contract in different networks. It has been forked from [the original]() to demonstrate uses on Goldsky.
 
 ## Deploying the subgraph:
 
